@@ -1,6 +1,6 @@
 ### Opgave 1
 
-I opgave01 pakken finder du en WeatherData klasse der kan generere tilfældig vejrdata.
+I opgave02 pakken finder du en WeatherData klasse der kan generere tilfældig vejrdata.
 Den kalder CurrentConditionsDisplay, StatisticsDisplay og ForecastDisplay klasserne.
 
 Dette svarer til side 42 i bogen. 
